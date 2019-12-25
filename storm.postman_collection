@@ -1,4 +1,4 @@
-{
+﻿{
 	"info": {
 		"_postman_id": "08f1f391-ed54-4d4d-ba30-e420971346b3",
 		"name": "接口用例测试实战",
@@ -1903,7 +1903,7 @@
 						{
 							"key": "file",
 							"type": "file",
-							"src": "/C:/Users/Public/Pictures/Sample Pictures/1.txt"
+							"src": "/root/1.txt"
 						}
 					]
 				},
@@ -1951,7 +1951,7 @@
 						{
 							"key": "file",
 							"type": "file",
-							"src": "/C:/Users/Public/Pictures/Sample Pictures/1.doc"
+							"src": "/root/1.doc"
 						}
 					]
 				},
@@ -1992,7 +1992,7 @@
 						{
 							"key": "file",
 							"type": "file",
-							"src": "/C:/Users/Public/Pictures/Sample Pictures/1.jpg.jpg"
+							"src": "/root/1.jpg.jpg"
 						}
 					]
 				},
@@ -2040,7 +2040,7 @@
 						{
 							"key": "file",
 							"type": "file",
-							"src": "/C:/Users/Public/Pictures/Sample Pictures/中文.txt"
+							"src": "/root/中文.txt"
 						}
 					]
 				},
